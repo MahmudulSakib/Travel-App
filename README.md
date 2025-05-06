@@ -8,7 +8,8 @@
 
 ## ⚙️ Tech Stack
 
-- Typescript
+- TypeScript
+- JavaScript
 - Next.js
 - TailwindCSS
 
