@@ -1,4 +1,4 @@
-# Travelia A Travel Web App
+# A Travel Web App
 
 ![Screenshot of Home](/src/app/assets/home.png)
 ![Screenshot of Gallery](/src/app/assets/hero.png)
