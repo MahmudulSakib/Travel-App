@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from "react";
 import Image from "next/image";
 import { PEOPLE_URL } from "../constants";
@@ -74,10 +75,9 @@ const Camp = () => {
             <strong>Feeling Lost</strong> And Not Knowing The Way?
           </h2>
           <p className="text-[14px] font-[400] xl:text-[16px] xl:font-[400] mt-5 text-white">
-            staring from the anxiety of the climbers when visiting a new
-            climbing location, the possibility of getting lost is vry large.
-            That's why we are here for those of you who want to start an
-            adventure
+            Starting from the anxiety of climbers when visiting a new climbing
+            location, the possibility of getting lost is very high. That&apos;s
+            why we are here for those of you who want to start an adventure.
           </p>
           <Image
             src="/quote.svg"
